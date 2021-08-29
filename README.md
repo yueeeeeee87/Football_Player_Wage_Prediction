@@ -4,7 +4,9 @@ Data provided by Kaggle, FIFA 19 complete player dataset(https://www.kaggle.com/
 
 ## Python Packages Used
 * Numpy
+* Numpy
 * Pandas
-* statsmodels
+* scikit-learn
 * Matplotlib
-* sklearn
+* Seaborn
+* Factor_Analyzer
